@@ -7,8 +7,9 @@ This program implements 2D Regional Correlation Analysis, an algorithm proposed 
 Xuefei Wang, H. Peter Lu (2008) "2D Regional Correlation Analysis of Single-Molecule Trajectories," J. Phys. Chem. B. 112, 1492-14926
 
 
-## Compilation Notes
 ---
+## Compilation Notes
+
 
 * Need to compile using -lm option so sqrt() can take variable input.
 
@@ -20,21 +21,25 @@ Xuefei Wang, H. Peter Lu (2008) "2D Regional Correlation Analysis of Single-Mole
  			e.g., ./regionalCorrelationAnalysis intputData.dat output.dat
  
 
-
-## History
 ---
+## History
+
 
 2012-06-25: KGryte. Created.
 
 
-
-## Contact
 ---
+## Contact
+
 
  Contact:
+
   	Kristofer Gryte
+
   	University of Oxford
+
   	Oxford, UK
+  	
   	k.gryte1(at)physics.ox.ac.uk
   
   
