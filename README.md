@@ -34,9 +34,9 @@ Xuefei Wang, H. Peter Lu (2008) "2D Regional Correlation Analysis of Single-Mole
 
 Contact:
 
-Kristofer Gryte
-University of Oxford
-Oxford, UK
+Kristofer Gryte  
+University of Oxford  
+Oxford, UK  
 k.gryte1(at)physics.ox.ac.uk
   
 Copyright (c) 2012-2013
